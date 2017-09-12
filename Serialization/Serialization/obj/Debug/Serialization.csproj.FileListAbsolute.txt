@@ -1,0 +1,7 @@
+C:\Users\Quietus\Desktop\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Quietus\Desktop\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\Quietus\Desktop\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Quietus\Desktop\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Quietus\Desktop\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Quietus\Desktop\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\Quietus\Desktop\Serialization\Serialization\obj\Debug\Serialization.pdb
