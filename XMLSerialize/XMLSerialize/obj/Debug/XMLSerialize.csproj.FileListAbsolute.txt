@@ -1,0 +1,7 @@
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\bin\Debug\XMLSerialize.exe.config
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\bin\Debug\XMLSerialize.exe
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\bin\Debug\XMLSerialize.pdb
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\obj\Debug\XMLSerialize.csprojResolveAssemblyReference.cache
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\obj\Debug\XMLSerialize.csproj.CoreCompileInputs.cache
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\obj\Debug\XMLSerialize.exe
+C:\Users\Quietus\Desktop\LearningProgramming\XMLSerialize\XMLSerialize\obj\Debug\XMLSerialize.pdb
