@@ -1,0 +1,7 @@
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\bin\Debug\ISerializableDemo.exe.config
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\bin\Debug\ISerializableDemo.exe
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\bin\Debug\ISerializableDemo.pdb
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\obj\Debug\ISerializableDemo.csprojResolveAssemblyReference.cache
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\obj\Debug\ISerializableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\obj\Debug\ISerializableDemo.exe
+C:\Users\Quietus\Desktop\LearningProgramming\ISerializableDemo\ISerializableDemo\obj\Debug\ISerializableDemo.pdb

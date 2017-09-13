@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  iserializabledemo:
+    image: iserializabledemo
+    build:
+      context: .\ISerializableDemo
+      dockerfile: Dockerfile
